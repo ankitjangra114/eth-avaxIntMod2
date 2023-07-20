@@ -1,6 +1,8 @@
 # eth-avaxIntMod2
 
 This is a simple React component for a Crypto ATM application. It allows users to connect their MetaMask wallet, view their account balance, deposit and withdraw ETH, check the owner's name and a simple calculator with limited operations.
+* [project](https://github.com/ankitjangra114/eth-avaxIntMod2)
+* [Loom](https://www.loom.com/share/d362e834ac7b4fd6abf8a9c37f6f6d4b)
 
 ## Requirements
 
